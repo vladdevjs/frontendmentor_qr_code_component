@@ -33,7 +33,7 @@ body {
   border-radius: 0.625rem;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
   text-align: center;
-  width: 300px;
+  max-width: 300px;
 }
 
 .container img {
